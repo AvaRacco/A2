@@ -81,7 +81,7 @@
     }
 
     .overdue {
-        background-color: red;
+        background-color: tomato;
     }
 
     .notImportant {
