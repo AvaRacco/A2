@@ -1,0 +1,15 @@
+body {
+    margin: 0 auto;
+    padding: 5vw;
+    max-width: 800px;
+    font-family: "Oswald", sans-serif;
+}
+
+h1 {
+    font-size: 2.3rem;
+}
+
+li {
+    font-family: "Belanosima", sans-serif;
+    font-size: 1.3rem;
+}
